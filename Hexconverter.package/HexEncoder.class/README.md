@@ -1,0 +1,1 @@
+HexEncoder converts a string of ASCII characters into pretty printed hex

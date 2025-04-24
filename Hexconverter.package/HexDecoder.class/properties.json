@@ -1,0 +1,14 @@
+{
+	"category" : "Hexconverter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "HexDecoder",
+	"pools" : [
+		 ],
+	"super" : "ReadStream",
+	"type" : "normal" }

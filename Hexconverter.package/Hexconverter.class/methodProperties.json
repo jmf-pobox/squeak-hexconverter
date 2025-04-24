@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"initialize" : "jmf 4/23/2025 18:43",
+		"open" : "JMF 2/2/2006 08:07" },
+	"instance" : {
+		"asciiText" : "JMF 3/1/2005 20:47",
+		"asciiText:" : "JMF 2/3/2006 20:20",
+		"buildAsciiTextArea" : "JMF 3/1/2005 20:48",
+		"buildButtonAreaOn:andOn:" : "JMF 2/22/2005 16:25",
+		"buildHexTextArea" : "JMF 3/1/2005 20:48",
+		"buildWindow" : "JMF 2/22/2005 16:26",
+		"defaultExtent" : "JMF 2/21/2005 21:47",
+		"hexText" : "JMF 3/1/2005 20:48",
+		"hexText:" : "JMF 2/3/2006 20:20",
+		"label" : "JMF 2/21/2005 21:47",
+		"show" : "JMF 2/21/2005 21:43",
+		"window" : "JMF 2/21/2005 18:48" } }

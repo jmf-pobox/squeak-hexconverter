@@ -1,0 +1,18 @@
+{
+	"category" : "Hexconverter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"morph",
+		"hexText",
+		"asciiText",
+		"hexMorph",
+		"asciiMorph" ],
+	"name" : "Hexconverter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
