@@ -1,1 +1,0 @@
-Hexconverter is a simple ascii-hexadecimal text conversion tool.
